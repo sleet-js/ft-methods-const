@@ -13,8 +13,8 @@ const's for near ft's smart contract methods
 to devlop and publish this package
 ```bash
 bun install
-bun run index.ts
-bun build index.ts
+# bun run index.js
+# bun build index.js
 bun publish --dry-run
 bunx npm login
 bun publish --access public
