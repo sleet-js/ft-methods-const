@@ -1,6 +1,6 @@
 {
   "name": "@sleet-js/ft-methods-const",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "module": "index.js",
   "type": "module",
   "devDependencies": {
