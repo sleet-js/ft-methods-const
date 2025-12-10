@@ -22,7 +22,7 @@ bun publish --access public
 
 ---
 
-# HOW TO USE
+### HOW TO USE
 
 add
 ```sh
