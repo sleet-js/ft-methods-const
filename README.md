@@ -1,4 +1,9 @@
 # ft-methods-const
+const's for near ft's smart contract methods
+
+ℹ️ can be used with any near api js option.
+<br/>
+ℹ️ not all ft's may have the same methods, verify FT contract before using
 
 
 ---
@@ -9,6 +14,10 @@
 ```bash
 bun install
 bun run index.ts
+bun build index.ts
+bun publish --dry-run
+bunx npm login
+bun publish
 ```
 
 
