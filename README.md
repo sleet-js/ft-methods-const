@@ -17,7 +17,7 @@ bun run index.ts
 bun build index.ts
 bun publish --dry-run
 bunx npm login
-bun publish
+bun publish --access public
 ```
 
 
