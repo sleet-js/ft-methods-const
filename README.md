@@ -10,7 +10,7 @@ const's for near ft's smart contract methods
 
 
 ### DEV
-
+to devlop and publish this package
 ```bash
 bun install
 bun run index.ts
@@ -18,6 +18,21 @@ bun build index.ts
 bun publish --dry-run
 bunx npm login
 bun publish --access public
+```
+
+---
+
+# HOW TO USE
+
+add
+```sh
+npm i @sleet-js/ft-methods-const
+bun add @sleet-js/ft-methods-const
+```
+
+import
+```js
+import { ft_methods_const } from '@sleet-js/ft-methods-const';
 ```
 
 
