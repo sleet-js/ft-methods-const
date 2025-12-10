@@ -13,4 +13,4 @@ export const ft_methods_const = {
   storage_balance_bounds: "storage_balance_bounds",
   storage_balance_of: "storage_balance_of",
   ft_metadata: "ft_metadata",
-} as const;
+};
