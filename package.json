@@ -1,6 +1,7 @@
 {
   "name": "@sleet-js/ft-methods-const",
   "version": "0.0.4",
+  "license": "MIT",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
